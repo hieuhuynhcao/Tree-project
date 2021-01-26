@@ -193,7 +193,9 @@ int main()
 		"constructed AVL tree is \n";
 	preOrder(root);
 	print2DUtil(root);
-
+	
+	cout<<"THEM LENH DE TEST PULL"<<endl;
+	system("pause");
 	return 0;
 }
 
